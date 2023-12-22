@@ -34,7 +34,7 @@ const PieChartComponent = () => {
       setLoading(false);
     })();
   }, [month]);
-
+//
   return (
     <div>
       <div className="flex flex-row justify-between items-center heading-color">
