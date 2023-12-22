@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Roxiler Dashboard Frontend
+
+This is the frontend component of the Roxiler Dashboard application, built using the MERN (MongoDB, Express.js, Next.js, Node.js) stack.
 
 ## Getting Started
 
@@ -12,7 +14,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
+````
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
